@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(
+{
+    int a = 10$;
+    int x = 09;
+    char c = 'ab';
+    printf("Hello World\n");
+    y = 5;
+    static int i=0;
+}
